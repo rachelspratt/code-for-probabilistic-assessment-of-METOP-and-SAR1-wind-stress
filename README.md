@@ -1,1 +1,1 @@
-Rough code for the creation of SAR wind stress to estimate vertical transport. The initial code for estimating wind direction and surface transport.  Code is situated in Coastal California.  Jpeg analysis in an Asian study site is included. 
+Rough code for the creation of SAR wind stress to estimate vertical transport. The initial code for estimating wind direction and surface transport.  Code is situated in Coastal California.  Jpeg analysis in similar latitude for comparison analysis in Eastern Hemisphere is included for comparison of coastal dynamics. 
